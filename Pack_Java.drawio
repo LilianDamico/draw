@@ -1,0 +1,31 @@
+<mxfile host="Electron" modified="2023-06-15T00:58:47.621Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.8 Chrome/112.0.5615.165 Electron/24.2.0 Safari/537.36" etag="--mOXGlSNu4_po1rqI8Y" version="21.2.8" type="device">
+  <diagram name="Página-1" id="DAl4M0JczUaKFbXc6naC">
+    <mxGraphModel dx="462" dy="820" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xO9OHOfNT9LdRq1MfHPq-1" value="Pacotes Java&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xO9OHOfNT9LdRq1MfHPq-2" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="190" width="430" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="xO9OHOfNT9LdRq1MfHPq-3" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="90" y="220" width="330" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="xO9OHOfNT9LdRq1MfHPq-5" value="" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="140" y="260" width="250" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="xO9OHOfNT9LdRq1MfHPq-6" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;br&gt;&lt;b&gt;sw.class&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="250" y="280" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xO9OHOfNT9LdRq1MfHPq-7" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;br&gt;&lt;b&gt;sw1.class&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="250" y="350" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xO9OHOfNT9LdRq1MfHPq-8" value="Pack" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="26" y="183" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
